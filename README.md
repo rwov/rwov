@@ -16,6 +16,9 @@ Software engineer with 4+ years of experience. Have experience developing games,
 ![](https://img.shields.io/badge/Tool-TailwindCSS-informational?style=flat&color=warning&logo=tailwindcss)
 ![](https://img.shields.io/badge/Tool-Webpack-informational?style=flat&color=warning&logo=webpack)
 ![](https://img.shields.io/badge/Tool-shadcn/ui-informational?style=flat&color=warning&logo=shadcnui)
+![](https://img.shields.io/badge/Tool-VisualStudioCode-informational?style=flat&color=warning&logo=visualstudiocode)
+![](https://img.shields.io/badge/Tool-Stripe-informational?style=flat&color=warning&logo=stripe)
+![](https://img.shields.io/badge/Tool-NPM-informational?style=flat&color=warning&logo=npm)
 ![](https://img.shields.io/badge/Tool-Discord-informational?style=flat&color=warning&logo=discord)
 ![](https://img.shields.io/badge/Tool-RobloxEngine-informational?style=flat&color=warning&logo=robloxstudio)
 
