@@ -1,10 +1,7 @@
-[![Header](https://github.com/xAstralMars/xAstralMars/blob/master/banner.png?raw=true "Header")](https://github.com/xAstralMars)
+[![Header](https://github.com/xAstralMars/xAstralMars/blob/main/banner.png?raw=true "Header")](https://github.com/xAstralMars)
 
 ## 👋 Hello! 
 Software engineer with 4+ years of experience. Have experience developing games, web apps, APIs, and working with certain open and private APIs.
-
-## 🎮 Writing
-Besides developing, I also play video games.
 
 ## 🛠️ Technologies & Tools
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&color=informational&logo=javascript)
