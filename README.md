@@ -1,7 +1,7 @@
 [![Header](https://github.com/xAstralMars/xAstralMars/blob/main/banner.png?raw=true "Header")](https://github.com/xAstralMars)
 
 ## 👋 Hello! 
-Software engineer with 4+ years of experience. Have experience developing games, web apps, APIs, and working with certain open and private APIs.
+I am Software engineer with 5+ years of experience. I have experience creating full-stack web apps, along with iOS apps.
 
 ## 🛠️ Technologies & Tools
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&color=informational&logo=javascript)
