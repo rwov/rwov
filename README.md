@@ -1,7 +1,8 @@
-[![Header](https://github.com/xAstralMars/xAstralMars/blob/main/banner.png?raw=true "Header")](https://github.com/xAstralMars)
+[![Header](https://github.com/rwov/rwov/blob/main/updated-banner.png?raw=true "Header")](https://github.com/rwov)
 
 ## 👋 Hello! 
-I am Software engineer with 5+ years of experience. I have experience creating full-stack web apps, along with iOS apps.
+i am a software developer with over 5 years of experience. i can develop iOS apps along with full-stack web apps and node.js backends.
+i sniped this 4 letter user, it doesn't really mean much
 
 ## 🛠️ Technologies & Tools
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&color=informational&logo=javascript)
@@ -22,9 +23,10 @@ I am Software engineer with 5+ years of experience. I have experience creating f
 ![](https://img.shields.io/badge/Tool-NPM-informational?style=for-the-badge&color=warning&logo=npm)
 ![](https://img.shields.io/badge/Tool-Discord-informational?style=for-the-badge&color=warning&logo=discord)
 ![](https://img.shields.io/badge/Tool-RobloxEngine-informational?style=for-the-badge&color=warning&logo=robloxstudio)
+![](https://img.shields.io/badge/Tool-Xcode-informational?style=for-the-badge&logo=xcode&logoColor=147EFB)
 
 ## 📊 Statistics
-[![xAstralMars's github stats](https://github-readme-stats.vercel.app/api?username=xAstralMars&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![rwov's github stats](https://github-readme-stats.vercel.app/api?username=rwov&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **xAstralMars/xAstralMars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
