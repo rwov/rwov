@@ -1,6 +1,6 @@
 [![Header](https://avatars.githubusercontent.com/u/63427881?v=4)](https://github.com/rwov)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=software+developer;i+make+ios+apps+and+web+apps;5%2B+years+of+experience)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=1000&color=09F71E&width=435&lines=software+developer;i+make+ios+apps+and+web+apps;5%2B+years+of+experience)](https://git.io/typing-svg)
 
 ## 👋 Hello! 
 i am a software developer with over 5 years of experience. i can develop iOS apps along with full-stack web apps and node.js backends.
