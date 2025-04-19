@@ -2,11 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=1000&color=09F71E&width=435&lines=software+developer;i+make+ios+apps+and+web+apps;5%2B+years+of+experience)](https://git.io/typing-svg)
 
-## 👋 Hello! 
+## 👋 hi! 
 i am a software developer with over 5 years of experience. i can develop iOS apps along with full-stack web apps and node.js backends.
 i sniped this 4 letter user, it doesn't really mean much
 
-## 🛠️ Technologies & Tools
+## 🛠️ tools/tech i use
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&color=informational&logo=javascript)
 ![](https://img.shields.io/badge/Code-React-informational?style=for-the-badge&color=informational&logo=react)
 ![](https://img.shields.io/badge/Code-Next.js-informational?style=for-the-badge&color=informational&logo=nextdotjs)
@@ -27,7 +27,7 @@ i sniped this 4 letter user, it doesn't really mean much
 ![](https://img.shields.io/badge/Tool-RobloxEngine-informational?style=for-the-badge&color=warning&logo=robloxstudio)
 ![](https://img.shields.io/badge/Tool-Xcode-informational?style=for-the-badge&logo=xcode&logoColor=147EFB)
 
-## 📊 Statistics
+## 📊 stats
 [![rwov's github stats](https://github-readme-stats.vercel.app/api?username=rwov&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
