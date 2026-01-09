@@ -4,9 +4,8 @@
 
 ## 👋 hi! 
 i am a software developer with over 5 years of experience. i can develop iOS apps along with full-stack web apps and node.js backends.
-i sniped this 4 letter user, it doesn't really mean much
 
-## 🛠️ tools/tech i use
+## 🛠️ stack
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&color=informational&logo=javascript)
 ![](https://img.shields.io/badge/Code-React-informational?style=for-the-badge&color=informational&logo=react)
 ![](https://img.shields.io/badge/Code-Next.js-informational?style=for-the-badge&color=informational&logo=nextdotjs)
