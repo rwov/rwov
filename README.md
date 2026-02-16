@@ -2,8 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=1000&color=09F71E&width=435&lines=software+developer;i+make+ios+apps+and+web+apps;5%2B+years+of+experience)](https://git.io/typing-svg)
 
-## 👋 hi! 
-i am a software developer with over 5 years of experience. i can develop iOS apps along with full-stack web apps and node.js backends.
+contact for full-stack sites/iOS apps [https://dxu.one](https://dxu.one)
 
 ## 🛠️ stack
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&color=informational&logo=javascript)
@@ -25,9 +24,6 @@ i am a software developer with over 5 years of experience. i can develop iOS app
 ![](https://img.shields.io/badge/Tool-Discord-informational?style=for-the-badge&color=warning&logo=discord)
 ![](https://img.shields.io/badge/Tool-RobloxEngine-informational?style=for-the-badge&color=warning&logo=robloxstudio)
 ![](https://img.shields.io/badge/Tool-Xcode-informational?style=for-the-badge&logo=xcode&logoColor=147EFB)
-
-## 📊 stats
-[![rwov's github stats](https://github-readme-stats.vercel.app/api?username=rwov&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **xAstralMars/xAstralMars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
