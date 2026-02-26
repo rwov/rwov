@@ -4,6 +4,8 @@ contact for full-stack sites/iOS apps [https://dxu.one](https://dxu.one)
 
 building the modern agentic cloud [@XbuildApp](https://github.com/xbuildapp)
 
+multiple published iOS apps: [Insightfull](https://app.insightfull.app) [Mentio](https://mentio.insightfull.app)
+
 ## 🛠️ stack
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&color=informational&logo=javascript)
 ![](https://img.shields.io/badge/Code-React-informational?style=for-the-badge&color=informational&logo=react)
