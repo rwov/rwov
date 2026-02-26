@@ -1,6 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=1000&color=09F71E&width=435&lines=software+developer;i+make+ios+apps+and+web+apps;5%2B+years+of+experience)](https://git.io/typing-svg)
 
 contact for full-stack sites/iOS apps [https://dxu.one](https://dxu.one)
+
 building the modern agentic cloud where nobody needs to code [@XbuildApp](https://github.com/xbuildapp)
 
 ## 🛠️ stack
