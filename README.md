@@ -2,7 +2,7 @@
 
 contact for full-stack sites/iOS apps [https://dxu.one](https://dxu.one)
 
-building the modern agentic cloud where nobody needs to code [@XbuildApp](https://github.com/xbuildapp)
+building the modern agentic cloud [@XbuildApp](https://github.com/xbuildapp)
 
 ## 🛠️ stack
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&color=informational&logo=javascript)
