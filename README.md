@@ -6,6 +6,8 @@ building the modern agentic cloud [@XbuildApp](https://github.com/xbuildapp)
 
 multiple published iOS apps: [Insightfull](https://app.insightfull.app) [Mentio](https://mentio.insightfull.app)
 
+occasional OSS projects when i feel like it [HTTPKit](https://github.com/rwov/HTTPKit) [opsh](https://github.com/rwov/opsh)
+
 ## 🛠️ stack
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&color=informational&logo=javascript)
 ![](https://img.shields.io/badge/Code-React-informational?style=for-the-badge&color=informational&logo=react)
