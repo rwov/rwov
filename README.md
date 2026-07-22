@@ -1,8 +1,11 @@
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=1000&color=09F71E&width=435&lines=software+developer;i+make+ios+apps+and+web+apps;5%2B+years+of+experience)](https://git.io/typing-svg) -->
 
 contact for web/ios apps [https://dxu.one](https://dxu.one)
+
 building in private @XbuildApp @InsightfullApp
+
 published ios apps [Insightfull (being reworked)](https://app.insightfull.app) [Mentio](https://mentio.insightfull.app)
+
 couple OSS projects [HTTPKit](https://github.com/rwov/HTTPKit) [opsh](https://github.com/rwov/opsh)
 
 ## 🛠️ stack
