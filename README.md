@@ -14,7 +14,7 @@
 
 > developer & founder based in LA<br>
 
-i work across iOS, full-stack web, AI, and hardware
+i work across iOS, full-stack web, AI, and hardware<br>
 hire me for anything you might need [email](mailto:rohan@dxu.one)
 
 <img src="./hd-stack.svg" width="620" alt="stack"/>
