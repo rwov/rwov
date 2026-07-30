@@ -1,45 +1,48 @@
-<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=1000&color=09F71E&width=435&lines=software+developer;i+make+ios+apps+and+web+apps;5%2B+years+of+experience)](https://git.io/typing-svg) -->
+<div align="center">
 
-contact for web/ios apps [https://dxu.one](https://dxu.one)
+<img src="./ascii.svg" width="460" alt="Rohan Rocks"/>
 
-building in private @XbuildApp @InsightfullApp
+<img src="./stats.svg" width="620" alt="Contributions in the last year"/>
 
-published ios apps [Insightfull (being reworked)](https://app.insightfull.app) [Mentio](https://mentio.insightfull.app)
+[dxu.one](https://dxu.one) &nbsp;·&nbsp;
+[github](https://github.com/rwov) &nbsp;·&nbsp;
+[email](mailto:rohan@dxu.one)
 
-couple OSS projects [HTTPKit](https://github.com/rwov/HTTPKit) [opsh](https://github.com/rwov/opsh)
+</div>
 
-## 🛠️ stack
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&color=informational&logo=javascript)
-![](https://img.shields.io/badge/Code-React-informational?style=for-the-badge&color=informational&logo=react)
-![](https://img.shields.io/badge/Code-Next.js-informational?style=for-the-badge&color=informational&logo=nextdotjs)
-![](https://img.shields.io/badge/Code-Swift-informational?style=for-the-badge&logo=swift&logoColor=f05138)
-![](https://img.shields.io/badge/Code-Lua-informational?style=for-the-badge&color=informational&logo=lua)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=for-the-badge&color=informationa&logo=typescript)
-![](https://img.shields.io/badge/Code-EcmaScript-informational?style=for-the-badge&color=informational)
-![](https://img.shields.io/badge/Code-HTML5-informational?style=for-the-badge&color=informational&logo=html5)
-![](https://img.shields.io/badge/Code-CSS3-informational?style=for-the-badge&color=informational&logo=css3)
-![](https://img.shields.io/badge/Code-Node-informational?style=for-the-badge&color=informational&logo=node.js)
-![](https://img.shields.io/badge/Tool-TailwindCSS-informational?style=for-the-badge&color=warning&logo=tailwindcss)
-![](https://img.shields.io/badge/Tool-Webpack-informational?style=for-the-badge&color=warning&logo=webpack)
-![](https://img.shields.io/badge/Tool-shadcn/ui-informational?style=for-the-badge&color=warning&logo=shadcnui)
-![](https://img.shields.io/badge/Tool-VisualStudioCode-informational?style=for-the-badge&color=warning&logo=visualstudiocode)
-![](https://img.shields.io/badge/Tool-Stripe-informational?style=for-the-badge&color=warning&logo=stripe)
-![](https://img.shields.io/badge/Tool-NPM-informational?style=for-the-badge&color=warning&logo=npm)
-![](https://img.shields.io/badge/Tool-Discord-informational?style=for-the-badge&color=warning&logo=discord)
-![](https://img.shields.io/badge/Tool-RobloxEngine-informational?style=for-the-badge&color=warning&logo=robloxstudio)
-![](https://img.shields.io/badge/Tool-Xcode-informational?style=for-the-badge&logo=xcode&logoColor=147EFB)
+<img src="./hd-about.svg" width="620" alt="about"/>
 
-<!--
-**xAstralMars/xAstralMars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> developer & founder based in LA<br>
 
-Here are some ideas to get you started:
+i work across iOS, full-stack web, AI, and hardware
+hire me for anything you might need [email](mailto:rohan@dxu.one)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="./hd-stack.svg" width="620" alt="stack"/>
+
+<samp>swift &nbsp; swiftui &nbsp; typescript &nbsp; javascript &nbsp; react &nbsp; next.js &nbsp; node.js &nbsp; python &nbsp; postgresql &nbsp; prisma &nbsp; firebase &nbsp; docker &nbsp; roblox lua &nbsp; git</samp>
+
+<img src="./hd-projects.svg" width="620" alt="projects"/>
+
+**[Insightfull](https://github.com/InsightfullApp)** &nbsp;·&nbsp; <samp>swiftui, typescript, ai</samp><br>
+AI-powered health platform that analyzes journals, habits, vitals, and wearable<br>
+data to uncover personalized insights, patterns, and long-term trends.
+
+**[Xbuild](https://github.com/XbuildApp)** &nbsp;·&nbsp; <samp>swiftui, typescript, ai</samp><br>
+A work in progress AI powered app that lets anyone build native apps regardless<br>
+of coding knowledge
+
+**[opsh](https://opsh.dxu.one)** &nbsp;·&nbsp; <samp>typescript, bash, ai</samp><br>
+A command line shell that lets you run commands with natural language, without<br>
+having to memorize bash commands and learn crazy syntax.
+
+<img src="./hd-stats.svg" width="620" alt="stats"/>
+
+<div align="center">
+
+<img src="./streak.svg" width="620" alt="Current and longest streak"/>
+
+<img src="./langs.svg" width="620" alt="Top languages by bytes and by repository"/>
+
+<img src="./year.svg" width="620" alt="The last year, one character per day"/>
+
+</div>
